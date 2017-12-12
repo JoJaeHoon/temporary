@@ -7,6 +7,5 @@
     * **first bold**<br/>
     * __second bold__<br/>
     * code block <br/>
-    ~~~~~
-    code
-    ~~~~~
+    * ~~~~ horizontal Rules ~~~~~
+    ***
