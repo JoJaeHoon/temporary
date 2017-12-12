@@ -6,6 +6,7 @@
     * _second inclination_<br/>
     * **first bold**<br/>
     * __second bold__<br/>
-    * ~~~~ 
-      code block 
-      ~~~~ <br/>
+    * code block <br/>
+    ~~~~~
+    code
+    ~~~~~
