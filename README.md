@@ -7,7 +7,7 @@
     * **first bold**<br/>
     * __second bold__<br/>
     
-    fdsafsd 'function test(){return false;}' fdsafs
+    fdsafsd `function test(){return false;}` fdsafs
     
     * ~~~~ horizontal Rules ~~~~~
     ***
