@@ -1,6 +1,6 @@
 >### temporary file
 1. study
-  - markdown<br/>
+    - markdown<br/>
     * *first inclination*<br/>
     * _second inclination_<br/>
     * **first bold**<br/>
@@ -9,7 +9,7 @@
     * ```emphasis```
     * *[STS]: Spring Tool Suite
     * [link](http://multiplekey.blogspot.kr/ "go")
-  - item
+    - item
     * **Python**
     * sql conversion
     *
