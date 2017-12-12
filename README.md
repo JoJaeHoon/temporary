@@ -9,4 +9,4 @@
     * code insert `function Code(){return false;}`<br/>
     * ```emphasis```
     * *[STS]: Spring Tool Suite
-    * [link](http://multiplekey.blogspot.kr/ "link")
+    * [link](http://multiplekey.blogspot.kr/ "link" target="_black")
