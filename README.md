@@ -2,4 +2,5 @@
 
 1. study
 * markdown
-> *inclination*
+> *first inclination*
+> _second inclination_
