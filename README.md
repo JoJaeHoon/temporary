@@ -7,5 +7,5 @@
     * **first bold**<br/>
     * __second bold__<br/>
     * code insert `function Code(){return false;}`
-    * ~~~ horizontal Rules ~~~~
+    * ``` css ```
     ***
