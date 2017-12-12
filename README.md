@@ -11,7 +11,7 @@
     * *[STS]: Spring Tool Suite
     * [link](http://multiplekey.blogspot.kr/ "go")
   - item
-    * **Python**
+    * **Python**
     * sql conversion
     *
 ***
