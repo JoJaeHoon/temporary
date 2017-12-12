@@ -6,8 +6,8 @@
     * _second inclination_<br/>
     * **first bold**<br/>
     * __second bold__<br/>
-    ~~~
-    function test(){return false;}
-    ~~~
+    
+    fdsafsd 'function test(){return false;}' fdsafs
+    
     * ~~~~ horizontal Rules ~~~~~
     ***
