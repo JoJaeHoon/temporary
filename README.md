@@ -8,5 +8,5 @@
     * __second bold__<br/>
     * code insert `function Code(){return false;}`<br/>
     * ```emphasis```
-    * *[STS]: Spring Tool Suite
-    * [link](http://multiplekey.blogspot.kr/ "link" target="_black")
+    * ```*[STS]: Spring Tool Suite```
+    * [link](http://multiplekey.blogspot.kr/ "go")
