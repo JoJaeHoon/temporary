@@ -9,3 +9,4 @@
     * code insert `function Code(){return false;}`<br/>
     * ```emphasis```
     * *[STS]: Spring Tool Suite
+*[HTML]: Hyper Text Markup Language
