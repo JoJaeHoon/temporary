@@ -1,6 +1,6 @@
 ### temporary file
 
 >1. study
-  - markdown<br/>
+>- markdown<br/>
     * *first inclination*<br/>
-    * _second inclination_
+    * _second inclination_<br/>
