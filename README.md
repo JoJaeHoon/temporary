@@ -12,5 +12,5 @@
     - item
         * **Python**
         * sql conversion service
-        * web mail service
+        * web mail service
 ***
